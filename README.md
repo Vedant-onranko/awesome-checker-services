@@ -151,6 +151,8 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://search.google.com/structured-data/testing-tool/u/0/ | Evaluate your structured data (rich snippets) markup for errors or warnings. | Free |
 | https://www.seobility.net/en | All-in-one SEO software including crawler, rank tracker, backlink checker, monitoring and reporting tools. | Free and paid plans |
 | https://seomator.com | SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips. | Paid |
+| https://serplux.com/ | AI Growth Agents to Boost Traffic, Rankings & Sales - 24/7 | Free and paid plans |
+
 
 
 ## Technology Used 🖥
